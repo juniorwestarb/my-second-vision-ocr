@@ -14,7 +14,7 @@ Este projeto tem por objetivo auxiliar no reconhecimento de palavras em objetos 
 ## Tecnologia aplicada:
 
 - Python 3.6
-- OpenCV 4
-- Google Tesseract
+- OpenCV 4 (com o detector de texto EAST)
+- Google Tesseract (com o algoritmo de reconhecimento de texto de aprendizado profundo LSTM do Tesseract v4)
 - Google Spech
 - Google Cloud Translate
